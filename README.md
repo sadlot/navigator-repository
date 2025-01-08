@@ -1,12 +1,12 @@
 Spring project to access data from:
 + my sql db
-+ redis
++ mongo - stored by kafka through kafka connect
 
 Data exposed through REST API
 
 Tech:
 Spring Boot
 Spring Data JPA(hibernate)
-Spring Data Redis
+Spring Data Mongo
 MongoDB
 MySql
